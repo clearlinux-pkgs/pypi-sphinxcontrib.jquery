@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib.jquery
 Version  : 3.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/02/28/8aa5bd615f64bbd51ca4491894bddc962b59016c70c40c32d184d10925b5/sphinxcontrib.jquery-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/02/28/8aa5bd615f64bbd51ca4491894bddc962b59016c70c40c32d184d10925b5/sphinxcontrib.jquery-3.0.0.tar.gz
 Summary  : Extension to include jQuery on newer Sphinx releases
@@ -41,6 +41,7 @@ Group: Default
 Requires: python3-core
 Provides: pypi(sphinxcontrib.jquery)
 Requires: pypi(setuptools)
+Provides: pypi(sphinxcontrib_jquery)
 
 %description python3
 python3 components for the pypi-sphinxcontrib.jquery package.
@@ -58,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1675897658
+export SOURCE_DATE_EPOCH=1675898345
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
