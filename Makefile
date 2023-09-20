@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinxcontrib.jquery
-URL = https://files.pythonhosted.org/packages/02/28/8aa5bd615f64bbd51ca4491894bddc962b59016c70c40c32d184d10925b5/sphinxcontrib.jquery-3.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/de/f3/aa67467e051df70a6330fe7770894b3e4f09436dea6881ae0b4f3d87cad8/sphinxcontrib-jquery-4.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
