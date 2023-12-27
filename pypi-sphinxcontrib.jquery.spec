@@ -5,7 +5,7 @@
 #
 Name     : pypi-sphinxcontrib.jquery
 Version  : 4.1
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/de/f3/aa67467e051df70a6330fe7770894b3e4f09436dea6881ae0b4f3d87cad8/sphinxcontrib-jquery-4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/de/f3/aa67467e051df70a6330fe7770894b3e4f09436dea6881ae0b4f3d87cad8/sphinxcontrib-jquery-4.1.tar.gz
 Summary  : Extension to include jQuery on newer Sphinx releases
